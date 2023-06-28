@@ -83,5 +83,7 @@ The Bitcoin Price Ticker application is licensed under the MIT License. For more
 The Bitcoin Price Ticker application is provided as-is without any warranty. The prices displayed are obtained from external sources, and their accuracy and reliability may vary. Always perform your own research and exercise caution when making investment decisions.
 
 **Note:** This README file provides a basic structure and guidelines for the Bitcoin Price Ticker application. You may need to
+
+# Demo
 https://github.com/Shadvonic/ByteCoin/assets/73319722/d15da4fb-57ae-4126-ba1e-a1c4e9b8f153
 
