@@ -1,11 +1,11 @@
 # ByteCoin
-# Bitcoin Price Ticker
 
-The Bitcoin Price Ticker is a simple application that provides you with the latest Bitcoin prices in popular traded currencies. It allows you to track the performance of your Bitcoin investments on the go, providing you with real-time price updates. This README file provides an overview of the application, including its features, setup instructions, and usage guidelines.
+
+ByteCoin is a simple application that provides you with the latest Bitcoin prices in popular traded currencies. It allows you to track the performance of your Bitcoin investments on the go, providing you with real-time price updates. This README file provides an overview of the application, including its features, setup instructions, and usage guidelines.
 
 ## Features
 
-The Bitcoin Price Ticker offers the following features:
+ByteCoin offers the following features:
 
 1. Real-time Bitcoin prices: The application fetches the latest Bitcoin prices from reliable sources and displays them in multiple popular traded currencies.
 2. Currency selection: You can choose the currency in which you want to view the Bitcoin prices. The application supports a wide range of popular currencies.
